@@ -1,1 +1,10 @@
 
+{ "versionCode": 43, 
+                "x86": "https://drive.google.com/file/d/1-3WoXTdWqaU6GZoVl8TqAnCq3D6x5s4j/view?usp=drive_link",
+                "arm64-v8a": "https://drive.google.com/file/d/1L0SlTnDRmTw90EJC_ezNPHV4AMtP-1Sq/view?usp=drive_link",
+                "armeabi-v7a": "https://drive.google.com/file/d/1GMwv4GICA6XjFgizxE1vJgrA8jcwxM1e/view?usp=drive_link",
+                "url": "https://drive.google.com/file/d/1Gfr_Hy6qQfHV5RPsfNObiNMvm0wzMO9v/view?usp=drive_link",
+                "armeabi": "https://drive.google.com/file/d/1DRo3rmoluRtIrh5spUyds-hAiFi09HI_/view?usp=drive_link",
+                "x86_64": "https://drive.google.com/file/d/1mLEAPvP_H5orZhR5EGuKVr3M9sdn1DbK/view?usp=drive_link",
+                "mips": "https://drive.google.com/file/d/1Mur9VFzEWCIrIgUUZwh2KmXodP2Ea5O5/view?usp=drive_link"
+            }
